@@ -1,0 +1,52 @@
+.divprin{
+    border: 2px solid #000;
+    height: 150px;
+    width: 450px;
+}
+.divfoto{
+    
+    padding-top: 5%;
+    height: 25%;
+    width: 25%;
+    display: inline-block;
+
+}
+.divfoto img{
+    align-content: center;
+    border-radius: 50%;
+    border: 2px solid rgb(46, 7, 58);
+    
+    display: inline-block;
+    
+}
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+.divnombremensaje{
+    border: 2px solid rgb(52, 14, 189);
+    display: inline-block;
+    height: 350px;
+    width: 150px;
+}
+.divnombre{
+    border: 2px solid rgb(105, 155, 13);
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+
+}
+.divmen{
+    border: 2px solid rgb(21, 189, 201);
+    font-size: 18px;
+    font-weight: normal;
+    display: inline-block;
+}
+.divtiem{
+    border: 2px solid rgb(196, 19, 72);
+    text-align: center;
+    display: inline-block;
+}
+.divtrespuntos{
+    border: 2px solid rgb(20, 209, 93);
+    display: inline-block;
+}
